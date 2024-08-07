@@ -21,7 +21,7 @@ Automated testing is essential to ensure the quality and stability of your appli
 1. Google test (test1.cy.js):
 This test checks the Google search functionality. Ensures that the results page displays search results correctly.
 
-2. LinkedIn test (TestLinkedin.cy.js):
+2. LinkedIn test (TesteLinkedin.cy.js):
 This test checks the login process on LinkedIn. Ensures that the user can log in correctly and that the correct items are displayed after logging in.
 
 3. SauceDemo test (TesteSaucedemo.cy.js):
